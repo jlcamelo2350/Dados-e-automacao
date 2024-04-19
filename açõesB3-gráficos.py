@@ -1,5 +1,5 @@
 #Código em python que baixa os dados de várias ações no período entre 2022 e 2024
-#Depois, desenha-se o gráfico dessas ações.
+#Depois desenha-se os gráficos dessas ações.
 
 #Importo as bibliotecas para uso no python
 import pandas as pd
