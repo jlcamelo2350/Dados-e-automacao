@@ -11,7 +11,7 @@ import os
 # URL do arquivo Excel no Google Drive (link de download direto)
 url = 'https://docs.google.com/spreadsheets/d/1fG-I1Sn3sv_vIFZAGl2C54zLvw-Xqmit/export?format=xlsx'
 
-# faço o download do arquivo
+# específico o local onde guardarei o arquivo
 downloads_dir = os.path.join(os.path.expanduser('~'), 'Downloads')
 caminho = os.path.join(downloads_dir, 'portfólio_RV.xlsx')
 
