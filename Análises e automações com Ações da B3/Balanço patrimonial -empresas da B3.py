@@ -1,4 +1,4 @@
-##Esse código obtém os dados do balanço patrimonial de 535 empresas da B3
+##Esse código obtém os dados do balanço patrimonial de 535 empresas da B3 e salva eles em arquivo excel
 
 import pandas as pd
 import yfinance as yf
