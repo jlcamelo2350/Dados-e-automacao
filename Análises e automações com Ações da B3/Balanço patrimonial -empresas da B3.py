@@ -1,4 +1,4 @@
-##Esse código obtém os dados do balanço patrimonial de 535 empresas da B3 e salva eles em arquivo excel
+##Esse código obtém os dados do balanço patrimonial de 535 empresas da B3 e salva eles em arquivo excel na pasta de downloads do usuário
 
 import pandas as pd
 import yfinance as yf
@@ -158,9 +158,9 @@ def BP():
 "CESP5.SA","ECPR4.SA","MOSI3.SA","POWE3.SA","ECPR3.SA","GNDI3.SA","LAME4.SA","LAME3.SA","OMGE3.SA","IGTA3.SA","JPSA3.SA","BRDT3.SA","JBDU4.SA","JBDU3.SA","HGTX3.SA","CCPR3.SA","DTEX3.SA",
 "VVAR3.SA","PNVL4.SA","TESA3.SA","BTOW3.SA","LINX3.SA","BTTL3.SA","GPCP3.SA","GPCP4.SA","SMLS3.SA","MMXM3.SA","BSEV3.SA",
 "CNTO3.SA","TIET4.SA","TIET3.SA","CORR4.SA","CEPE3.SA","CALI4.SA","SNSY6.SA","CASN4.SA","BPAR3.SA","APTI4.SA","VSPT3.SA","MTIG3.SA","FIGE4.SA","LUXM3.SA",
-"TKNO3.SA","COCE6.SA","MGEL3.SA","CTSA8.SA","MMAQ4.SA"
-        
-    ]
+"TKNO3.SA","COCE6.SA","MGEL3.SA","CTSA8.SA","MMAQ4.SA"]
+
+    #    Crio uma lista vazia que vou utilizar logo mais
     balance_sheets = []
 
     # Loop para baixar os balanços patrimoniais de cada empresa
