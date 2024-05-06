@@ -1,4 +1,4 @@
-##Baixa os dados da DRE das ações listadas na   B3
+##Baixa os dados da DRE das ações listadas na  B3 dos últimos 4 anos
 
 import yfinance as yf
 import pandas as pd
@@ -51,7 +51,7 @@ def DRE():
     # Loop para baixar a Demonstração de Resultados do Exercício de cada empresa
     for ticker in tickers:
         ativo = yf.Ticker(ticker)
-        dre = ativo.get_financials(freq='quarterly')
+        dre = ativo.get_financials(freq='yearly')
         dre['Company'] = ticker.split('.')[0] 
         dfs.append(dre)
 
