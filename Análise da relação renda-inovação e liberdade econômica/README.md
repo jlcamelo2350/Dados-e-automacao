@@ -15,12 +15,6 @@ Apesar das limitações apontadas, o estudo apresenta resultados com relevância
 - Inovação e liberdade econômica impulsionam o crescimento da renda per capita. Isso fornece base para políticas que visem o desenvolvimento econômico.
 - A inovação exerce maior influência do que a liberdade econômica. Isso destaca a importância de se investir em pesquisa, desenvolvimento e na criação de um ambiente propício à inovação.
 
-## Limitações:
-
-- A modelagem linear utilizada pode apresentar limitações em capturar a complexa relação entre as variáveis.
-
-Estas limitações apontam caminhos para pesquisas futuras que possam incorporar séries temporais, considerar o grau de desenvolvimento econômico e explorar outras metodologias.
-
 ## Ferramentas utilizadas:
 
 - Obtenção, tratamento, limpeza e análise de dados, utilizando Power BI e Excel
