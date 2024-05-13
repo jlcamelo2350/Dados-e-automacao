@@ -1,1 +1,25 @@
-..
+# Pandemia e Expectativa de Vida: Uma Análise Comparativa das Trajetórias Pós Pandemia
+
+Este projeto analisa os impactos da pandemia de COVID-19 na expectativa de vida em diversos países, comparando dados de gastos com saúde, qualidade do sistema de saúde e expectativa de vida antes, durante e após a pandemia.
+
+## Dados Utilizados
+
+- **Gastos com Saúde**: Percentual do PIB gasto com saúde em diferentes países.
+- **Qualidade do Sistema de Saúde**: Ranking dos melhores sistemas de saúde do mundo.
+- **Expectativa de Vida**: Dados da Organização para a Cooperação e Desenvolvimento Econômico (OCDE).
+
+## Análise e Resultados
+
+- **Relação entre Gastos e Qualidade do Sistema de Saúde**: Existe uma correlação moderada (51%) entre os gastos com saúde e a qualidade do sistema de saúde.
+- **Impacto na Expectativa de Vida**:
+  - Brasil e Argentina tiveram uma queda na expectativa de vida desde o início da pandemia, enquanto Portugal e Chile mantiveram ou aumentaram a expectativa de vida.
+  - Países como Noruega, Peru, Alemanha e outros europeus também tiveram uma queda na expectativa de vida.
+  - Alguns países, como Chile e Portugal, mantiveram uma tendência de aumento na expectativa de vida, sugerindo diferentes respostas à pandemia.
+
+## Conclusão
+
+- A pandemia teve um impacto significativo na expectativa de vida em vários países, com quedas observadas em diferentes momentos e intensidades.
+- Diversos fatores contribuíram para essas variações, incluindo o envelhecimento da população, dificuldades no acesso aos serviços de saúde, atrasos no tratamento de doenças graves e queda na taxa de natalidade, ocasionados pela pandemia, em diversos países.
+- A tendência pós-pandemia é de normalização da situação, mas os efeitos a longo prazo ainda são incertos.
+
+Para mais detalhes sobre a análise e os resultados, consulte o código e os gráficos neste repositório.
