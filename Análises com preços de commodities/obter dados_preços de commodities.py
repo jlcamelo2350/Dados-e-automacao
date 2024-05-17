@@ -56,9 +56,10 @@ tickers = [
     "SB=F",  # Sugar
 ]
 
-
+#Crio um dataframe vazio onde armazenarei os dados:
 df = pd.DataFrame()
 
+#Datas:
 start = dt.datetime(2000, 1, 2)
 end = dt.datetime(2024, 4, 1)
 
@@ -68,6 +69,7 @@ for ticker in tickers:
         data = yf.download(ticker, start=start, end=end)['Close']
         # Renomear a coluna do DataFrame para incluir o ticker
         data = data.rename(ticker)
+        #Concateno os dataframes gerados em um só:
         df = pd.concat([df, data], axis=1)
     except Exception as e:
         print(f"Erro ao baixar dados para {ticker}: {e}")
