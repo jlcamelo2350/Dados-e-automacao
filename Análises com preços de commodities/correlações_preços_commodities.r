@@ -1,7 +1,7 @@
 # Armazenar os nomes das colunas de commodities em uma variável
 colunas_commodities <- colnames(dados)[-1]
 
-# Substituir valores NA pela média da coluna
+# Substituir valores NA (células vazias) pela média da coluna
 for (coluna in colnames(dados)) {
   dados[[coluna]][is.na(dados[[coluna]])] <- mean(dados[[coluna]], na.rm = TRUE)
 }
