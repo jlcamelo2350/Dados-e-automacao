@@ -16,7 +16,7 @@ for(commodity in commodities) {
   # Cria o ggplot object para a commodity atual
   graph <- ggplot(dados, aes(x = index, y = !!sym(commodity))) 
     
-    # Adiciona uma camada de área com cor azul marinho
+    # Adiciona um gráfico de área com cor azul marinho
     + geom_area(fill = "navy") 
     
     # Define os títulos e rótulos dos eixos: título e nome dos eixos
