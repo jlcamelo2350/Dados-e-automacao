@@ -11,7 +11,7 @@ Scripts e notebooks que coletam, processam e analisam dados de preços das açõ
 Scripts que utilizam a biblioteca `yfinance` para obter dados dos balanços patrimoniais e demonstrações de resultados das empresas.
 
 ### Análises Financeiras
-Análises detalhadas de indicadores financeiros como valor justo das ações, retorno sobre o capital investido (ROIC), lucro por ação (EPS), entre outros. As análises são realizadas utilizando Python e ferramentas como pandas e numpy.
+Análises detalhadas de variação nos preços das ações ao longo do tempo, correlação entre preços e variabilidade. Outras análises incluem a situação financeira de algumas empresas de determinados setores, focando em receitas, lucros, prejuízos e dívida.
 
 ### Projetos Específicos
 - Obtenção de dados financeiros de empresas da B3
