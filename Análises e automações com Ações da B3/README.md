@@ -1,4 +1,4 @@
-# Análises Financeiras de Empresas Listadas na B3
+# Análise Financeira de Empresas Listadas na B3
 
 Este repositório contém uma série de trabalhos de análise financeira e econômica utilizando dados de empresas listadas na B3 (Bolsa de Valores do Brasil).
 
