@@ -17,7 +17,7 @@ Apesar das limitações apontadas, o estudo apresenta resultados com relevância
 
 ## Ferramentas utilizadas:
 
-- Obtenção, tratamento, limpeza e análise de dados, utilizando Power BI e Excel
+- Obtenção, tratamento, limpeza e análise de dados, utilizando Python, Power BI e Excel
 - Utilização de funções avançadas no R
 
 ## Próximos passos:
