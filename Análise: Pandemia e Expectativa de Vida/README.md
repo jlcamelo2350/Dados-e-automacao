@@ -20,6 +20,6 @@ Este projeto analisa os impactos da pandemia de COVID-19 na expectativa de vida 
 
 - A pandemia teve um impacto significativo na expectativa de vida em vários países, com quedas observadas em diferentes momentos e intensidades.
 - Diversos fatores contribuíram para essas variações, incluindo o envelhecimento da população, dificuldades no acesso aos serviços de saúde, atrasos no tratamento de doenças graves e queda na taxa de natalidade, ocasionados pela pandemia, em diversos países.
-- A tendência pós-pandemia é de normalização da situação, mas os efeitos a longo prazo ainda são incertos.
+- A tendência pós-pandemia é de normalização da situação, enquanto os efeitos a longo prazo deverá ser nenhum.
 
 Para mais detalhes sobre a análise e os resultados, consulte o código e os gráficos neste repositório.
