@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import gdown
 import os
+import random
 
 # URL do arquivo Excel no Google Drive (link de download direto)
 url = 'https://docs.google.com/spreadsheets/d/1fG-I1Sn3sv_vIFZAGl2C54zLvw-Xqmit/export?format=xlsx'
