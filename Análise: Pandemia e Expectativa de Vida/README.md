@@ -14,7 +14,7 @@ Este projeto analisa os impactos da pandemia de COVID-19 na expectativa de vida 
 **Impacto na Expectativa de Vida**:
   - Grupos diversos de países com características completamente diferentes entre si tiveram efeitos parecidos em seus índices de expectativa de vida.
   - Brasil, Argentina e Peru, mas também Noruega e Alemanha tiveram uma queda na expectativa de vida desde o início da pandemia, mas agora tendem a normalizarem a situação. Repare países com diferentes níveis de renda e qualidade de vida diversos.
- - Do mesmo modo,países como Portugal, Chile e China continuaram aumentando a expectativa de vida, mesmo durante a pandemia.
+  - Do mesmo modo,países como Portugal, Chile e China continuaram aumentando a expectativa de vida, mesmo durante a pandemia.
 
 ## Conclusão
 
