@@ -10,7 +10,7 @@ Este projeto analisa os impactos da pandemia de COVID-19 na expectativa de vida 
 
 ## Análise e Resultados
 
-**Relação entre Gastos e Qualidade do Sistema de Saúde**: Existe uma correlação moderada (51%) entre os gastos com saúde e a qualidade do sistema de saúde.
+**Relação entre Gastos e Qualidade do Sistema de Saúde**: Existe uma correlação moderada (51%) entre os gastos com saúde e a qualidade do sistema de saúde. A qualidade de um sistema de saúde depende dos investimentos feitos nele, mas também de diversos outros fatores.
 
 **Impacto na Expectativa de Vida**:
   - Grupos diversos de países com características completamente diferentes entre si tiveram efeitos parecidos em seus índices de expectativa de vida.
