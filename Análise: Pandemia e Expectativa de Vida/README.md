@@ -12,7 +12,7 @@ Este projeto analisa os impactos da pandemia de COVID-19 na expectativa de vida 
 
 - **Relação entre Gastos e Qualidade do Sistema de Saúde**: Existe uma correlação moderada (51%) entre os gastos com saúde e a qualidade do sistema de saúde.
 - **Impacto na Expectativa de Vida**:
-  - Brasil e Argentina tiveram uma queda na expectativa de vida desde o início da pandemia, enquanto Portugal e Chile mantiveram ou aumentaram a expectativa de vida.
+  - Brasil e Argentina tiveram uma queda na expectativa de vida desde o início da pandemia, enquanto Portugal e Chile mantiveram ou continuaram aumentando a expectativa de vida.
   - Países como Noruega, Peru, Alemanha e outros europeus também tiveram uma queda na expectativa de vida.
   - Alguns países, como Chile e Portugal, mantiveram uma tendência de aumento na expectativa de vida, sugerindo diferentes respostas à pandemia.
 
