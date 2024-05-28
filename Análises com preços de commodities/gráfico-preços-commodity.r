@@ -12,13 +12,9 @@ commodities <- colnames(dados)[-1]
 
 # Loop para criar gráficos de cada commodity
 for(commodity in commodities) {
-  
-  # Cria o ggplot object para a commodity atual
   graph <- ggplot(dados, aes(x = index, y = !!sym(commodity))) 
-    
-    # Adiciona um gráfico de área com cor azul marinho
     + geom_area(fill = "navy") 
-    
+  
     # Define os títulos e rótulos dos eixos: título e nome dos eixos
     + labs(title = paste("Preço da Commodity", commodity, "ao Longo do Tempo"),
            x = "Data", y = "Preço da Commodity") 
