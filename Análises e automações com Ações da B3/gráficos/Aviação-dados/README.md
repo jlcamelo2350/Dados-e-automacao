@@ -35,6 +35,8 @@ Análise da Embraer
 
     O gráfico de dispersão com linha mostra a evolução dos preços médios anuais das ações da Embraer.
     Observa-se uma queda significativa em 2020 (ano da pandemia) e uma recuperação subsequente nos anos seguintes.
+ 
+Um insight interessante: os preços das ações dessa empresa deu uma leve disparada no ano de 2024. Esse preço está bem acima dos anos anteriores.. tire suas conclusões, mas o contexto a tal está favorável para a Embraer.
 
 4. Comportamento Anual dos Preços
 
@@ -50,7 +52,7 @@ Análise da Boeing
 1. Preços das Ações ao Longo do Tempo
 
     O gráfico de dispersão com linhas mostra uma forte subida dos preços das ações da Boeing entre 2017 e 2018, seguida por uma queda em 2020 e uma recuperação gradual nos anos seguintes.
-    Uma linha de tendência curva é adicionada para destacar a tendência geral de crescimento.
+    Uma curva de tendência é adicionada para destacar a tendência geral de crescimento.
 
 2. Distribuição dos Preços das Ações
 
@@ -58,7 +60,7 @@ Análise da Boeing
 
 3. Variabilidade dos Preços das Ações
 
-    O desvio padrão dos preços da Boeing foi de R$ 77,69, indicando uma volatilidade significativamente maior do que a da Embraer.
+    O desvio padrão dos preços da Boeing foi de R$ 77,69, indicando uma volatilidade significativamente maior do que a da Embraer e Airbus.
 
 4. Análise Detalhada do Comportamento
 
