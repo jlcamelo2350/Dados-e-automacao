@@ -36,7 +36,7 @@ Análise da Embraer
     O gráfico de dispersão com linha mostra a evolução dos preços médios anuais das ações da Embraer.
     Observa-se uma queda significativa em 2020 (ano da pandemia) e uma recuperação subsequente nos anos seguintes.
  
-Um insight interessante: os preços das ações dessa empresa deu uma leve disparada no ano de 2024. Esse preço está bem acima dos anos anteriores.. tire suas conclusões, mas o contexto a tal está favorável para a Embraer.
+Um insight interessante: os preços das ações dessa empresa deu uma leve disparada no ano de 2024. Esse preço está bem acima dos anos anteriores.. tire suas conclusões, mas o contexto está favorável para a Embraer.
 
 4. Comportamento Anual dos Preços
 
