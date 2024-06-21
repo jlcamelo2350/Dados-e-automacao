@@ -69,35 +69,35 @@ Análise da Airbus
 
 1. Preços das Ações ao Longo do Tempo
 
-    O gráfico de dispersão com linhas mostra uma tendência de crescimento consistente das ações da Airbus entre 2017 e 2020, seguida por uma queda em 2020 e uma recuperação em forma de "V" em 2021.
-    A partir de 2022, a empresa retoma a trajetória de crescimento.
+*   O gráfico de dispersão com linhas mostra uma tendência de crescimento consistente das ações da Airbus entre 2017 e 2020, seguida por uma queda em 2020 e uma recuperação em forma de "V" em 2021.
+*   A partir de 2022, a empresa retoma a trajetória de crescimento.
     Uma linha de tendência curva é adicionada para destacar a tendência geral de crescimento.
 
 2. Distribuição dos Preços das Ações
 
-    O histograma de dispersão revela que a distribuição dos preços das ações da Airbus é mais concentrada do que a da Boeing, com a maioria dos preços na faixa de 10 a 20 euros por ação.
+*    O histograma de dispersão revela que a distribuição dos preços das ações da Airbus é mais concentrada do que a da Boeing, com a maioria dos preços na faixa de 10 a 20 euros por ação.
    
 3. Variabilidade dos Preços das Ações
 
-    O desvio padrão dos preços da Airbus foi de R$ 6,42, indicando uma volatilidade menor do que a da Boeing e similar à da Embraer.
+*    O desvio padrão dos preços da Airbus foi de R$ 6,42, indicando uma volatilidade menor do que a da Boeing e similar à da Embraer.
 
 4. Análise Detalhada do Comportamento
 
-    A análise do gráfico e das métricas adicionais revela que a Airbus teve um período de crescimento consistente entre 2017 e 2020, com um impacto negativo da pandemia em 2020.
-    A empresa se recuperou rapidamente em 2021 e retomou a trajetória de crescimento nos anos seguintes.
-    A Airbus demonstra maior resiliência à volatilidade do mercado em comparação com a Boeing.
+*    A análise do gráfico e das métricas adicionais revela que a Airbus teve um período de crescimento consistente entre 2017 e 2020, com um impacto negativo da pandemia em 2020.
+*    A empresa se recuperou rapidamente em 2021 e retomou a trajetória de crescimento nos anos seguintes.
+*    A Airbus demonstra maior resiliência à volatilidade do mercado em comparação com a Boeing.
 
 5. Comportamento Anual dos Preços
 
-    O gráfico FacetGrid permite visualizar o comportamento individual dos preços das ações da Airbus em cada ano.
-    É possível identificar períodos de crescimento constante, queda em 2020 e recuperação em 2021, seguido por crescimento nos anos seguintes.
+*    O gráfico FacetGrid permite visualizar o comportamento individual dos preços das ações da Airbus em cada ano.
+*    É possível identificar períodos de crescimento constante, queda em 2020 e recuperação em 2021, seguido por crescimento nos anos seguintes.
 
 **Considerações Finais**
 
-    As três empresas analisadas (Embraer, Boeing e Airbus) apresentaram diferentes trajetórias de preços no período de 2017 a 2024.
-    A Embraer teve um crescimento moderado com volatilidade média. A Boeing, por sua vez, experimentou um forte crescimento inicial seguido de queda significativa e recuperação gradual, pós pandemia, seguida de nova queda agora em 2024. Ou seja, a Boeing parece estar instável, devido a seu futuro ainda incerto e problemas apresentados. A Embraer e Airbus agradecem.
-    A Airbus se destacou por sua resiliência à volatilidade, com crescimento consistente até 2020, recuperação --mais veloz que as concorrentes-- no pós pandemia e retomada do crescimento nos anos seguintes.
-    É importante ressaltar que essa análise é baseada em dados históricos e não garante previsões futuras.
+*    As três empresas analisadas (Embraer, Boeing e Airbus) apresentaram diferentes trajetórias de preços no período de 2017 a 2024.
+*    A Embraer teve um crescimento moderado com volatilidade média. A Boeing, por sua vez, experimentou um forte crescimento inicial seguido de queda significativa e recuperação gradual, pós pandemia, seguida de nova queda agora em 2024. Ou seja, a Boeing parece estar instável, devido a seu futuro ainda incerto e problemas apresentados. A Embraer e Airbus agradecem.
+*    A Airbus se destacou por sua resiliência à volatilidade, com crescimento consistente até 2020, recuperação --mais veloz que as concorrentes-- no pós pandemia e retomada do crescimento nos anos seguintes.
+*    É importante ressaltar que essa análise é baseada em dados históricos e não garante previsões futuras.
     Recomenda-se realizar análises mais aprofundadas e considerar outros fatores antes de tomar decisões de investimento.
 
 Próximos Passos
