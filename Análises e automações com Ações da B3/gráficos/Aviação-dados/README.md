@@ -102,9 +102,11 @@ Análise da Airbus
 
 Próximos Passos
 
-    Analisar outros indicadores financeiros das empresas, como lucratividade, dívida e fluxo de caixa.
-    Avaliar as perspectivas futuras das empresas, considerando fatores como lançamentos de novos produtos, estratégias de mercado e cenário macroeconômico.
-    Combinar a análise fundamental com a análise técnica para obter uma visão mais completa do potencial de investimento em cada empresa.
+-Analisar outros indicadores financeiros das empresas, como lucratividade, dívida e fluxo de caixa.
+
+-Avaliar as perspectivas futuras das empresas, considerando fatores como lançamentos de novos produtos, estratégias de mercado e cenário macroeconômico.
+
+-Combinar a análise fundamental com a análise técnica para obter uma visão mais completa do potencial de investimento em cada empresa.
 
 Observações
 
