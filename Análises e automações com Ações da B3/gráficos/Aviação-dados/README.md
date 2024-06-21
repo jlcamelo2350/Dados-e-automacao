@@ -16,9 +16,9 @@ import datetime as dt
 
 Funções Criadas
 
-    dados_preços(): Essa função baixa os dados históricos de preços das ações da Embraer do Yahoo Finance e os armazena em um DataFrame.
+*    dados_preços(): Essa função baixa os dados históricos de preços das ações da Embraer do Yahoo Finance e os armazena em um DataFrame.
 
-    preços_concorrentes(): Similar à função anterior, essa função baixa os dados de preços das ações da Boeing e Airbus no mesmo período.
+*  preços_concorrentes(): Similar à função anterior, essa função baixa os dados de preços das ações da Boeing e Airbus no mesmo período.
 
 Análise da Embraer
 
