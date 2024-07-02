@@ -46,10 +46,23 @@ Este estudo destaca a importância da inovação e da liberdade econômica para 
 
 ---
 
+## ⚠️ Limitações do Trabalho
+
+1. **Grau de Desenvolvimento Econômico**: O grau de desenvolvimento econômico e outras características (como crescimento, cenários macro e microeconômicos) influenciam o grau de inovação tecnológica de um país, conforme diversos estudos. Por exemplo, países como Brasil, China e Índia, que são de renda média, apresentam desempenhos em inovação acima do esperado. O desenvolvimento econômico é um fenômeno construído ao longo do tempo, e nossa modelagem não captura isso adequadamente, pois utiliza dados apenas do ano passado e não de uma série temporal. Estudos futuros deveriam considerar uma longa série temporal para obter resultados mais precisos. Isto é, seria necessário realizar essa modelagem ao longo do tempo para verificar se a inovação e a liberdade econômica influenciam a renda positiva ou negativamente nesse período.
+
+2. **Inovação**: Este estudo sugere que a inovação explica grande parte da renda per capita de um país. No entanto, isso pode ser uma falha do estudo, pois o potencial da inovação para explicar a renda per capita pode estar sendo superestimado. A hipótese mais convincente é que alguns fatores que explicam a alta renda de um país são os mesmos que levam a uma alta inovação. Por exemplo, países com educação de alto nível e forte integração entre academia e empresas tendem a ter maior renda e também maior inovação. Dessa forma, a variável educação afeta positivamente tanto a renda quanto a inovação. Portanto, a afirmação de que a inovação influencia significativamente a renda de um país é válida, mas deve-se considerar que essa influência pode estar sendo aumentada neste modelo.
+
+3. **Liberdade Econômica**: Países mais desenvolvidos tendem a se tornar mais livres ao longo do tempo. Assim, a liberdade econômica pode ser um reflexo do grau de desenvolvimento de um país e não necessariamente a causa de um elevado PIB per capita. Devido à falta de dados sobre a variação da liberdade econômica ao longo do tempo, a relação entre liberdade econômica e PIB per capita pode estar sendo superestimada. Isso não invalida os resultados, mas deve ser considerado.
+
+4. **Complexidade Econômica**: A economia envolve uma interação complexa entre milhares de variáveis que não podem ser captadas por um único modelo. Esta modelagem focou em aspectos específicos, não na totalidade. Considere isso ao interpretar os resultados.
+
+---
+
+
 ## 📈 Próximos Passos
 
 - Explorar outras variáveis que podem influenciar o PIB per Capita.
-- Analisar a relação entre PPC, inovação e liberdade econômica ao longo do tempo.
+- Analisar a relação entre PIB per Capita PPC, inovação e liberdade econômica ao longo do tempo.
 
 ---
 
