@@ -22,12 +22,12 @@ Este repositório apresenta um modelo de regressão múltipla que investiga a re
 *   1.1.1 - PIB per Capita PPC, World Bank: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
 *   1.1.2 - Economic Freedom Index: https://www.heritage.org/index/pages/all-country-scores
 *   1.1.3 - Innovation Index: https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2023-section1-en-gii-2023-at-a-glance-global-innovation-index-2023.pdf
-3. **Análise Exploratória de Dados**: Análise de medidas descritivas e visualizações gráficas para identificar padrões e relações entre as variáveis.
-4. **Modelagem de Regressão Múltipla**:
+2. **Análise Exploratória de Dados**: Análise de medidas descritivas e visualizações gráficas para identificar padrões e relações entre as variáveis.
+3. **Modelagem de Regressão Múltipla**:
     - Ajuste de modelos de regressão linear simples e múltipla para entender a relação entre as variáveis.
     - Verificação de multicolinearidade, normalidade dos resíduos, homocedasticidade e heterocedasticidade.
     - Ajuste do modelo final com erros padrão robustos para lidar com a heterocedasticidade.
-5. **Interpretação dos Resultados**:
+4. **Interpretação dos Resultados**:
     - Análise de coeficientes, R-squared, significância estatística e visualizações para interpretar os resultados do modelo.
 
 ---
