@@ -53,12 +53,6 @@ Empresas como a Petrobrás têm valor de mercado baseado em resultados tangívei
 
 Criptomoedas são ativos com alta volatilidade e potencial de grandes lucros. Diferem de ativos tradicionais pois seu valor depende única e exclusivamente da demanda do mercado por elas.
 
-
-## Contato 📧
-
-Para mais informações, entre em contato pelo email: exemplo@dominio.com
-
-
 ---
 
 > *Este repositório foi criado para oferecer insights sobre o mercado de criptomoedas e auxiliar investidores a tomar decisões informadas. Lembre-se de que, apesar dos retornos potencialmente altos, investir em criptomoedas requer cautela e uma compreensão clara dos riscos envolvidos.* 🚀
