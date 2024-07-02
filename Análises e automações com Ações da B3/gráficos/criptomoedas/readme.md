@@ -32,14 +32,14 @@ Analisar a volatilidade e a lucratividade de criptomoedas ao longo do tempo, des
 ## Melhores desempenhos históricos 📈:
 
 #### Bitcoin (BTC)
-- 2019-01-03: $3,836.74
-- 2024-06-19: $64,960.30
-- **Lucro:** 1593.11%
+- 2019-01-03: $3836,74
+- 2024-06-19: $64.960.30
+- **Lucro:** 1.593,11%
 
 #### Ethereum (ETH)
-- 2019-01-03: $149.14
-- 2024-06-19: $3,559.35
-- **Lucro:** 2286.66%
+- 2019-01-03: $149,14
+- 2024-06-19: $3.559,35
+- **Lucro:** 2.286,66%
 
 ### Volatilidade 🌊
 
