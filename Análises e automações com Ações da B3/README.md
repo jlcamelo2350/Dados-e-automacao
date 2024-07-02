@@ -1,4 +1,4 @@
-# 🚀 Análise Financeira com foco em Empresas Brasileiras da B3
+# 🚀 Análise Financeira com foco em Empresas Brasileiras listadas na B3
 Neste repositório, mergulhamos fundo nos dados financeiros das empresas listadas na B3 (Bolsa de Valores do Brasil). Prepare-se para uma jornada pelo mundo das finanças! 💰📊
 
 ## Conteúdo 📈
@@ -11,7 +11,8 @@ Investigo variações nos preços das ações ao longo do tempo, correlações i
 ## 🌟 Projetos Específicos
 - Obtenção de Dados Financeiros: Coleta de informações sobre empresas da B3.
 - Proejto: Análise de Empresas do Varejo Brasileiro: Analiso as empresas a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa!🤫😉
-- Exploração do Setor Bancário e de Petróleo: Quem está nadando em dinheiro e quem está afundando? Vamos descobrir!
+- Exploração do Setor Bancário e de Petróleo: Quem está nadando em dinheiro e quem está afundando? Vamos descobrir! Mais um spoiler: Todos aí estão nadando no dinheiro 😅
+- Simulação básica de portfólios com diferentes graus de riscos. A análise aqui simulou a compra de algumas ações de várias empresas e os retornos obtidos com dividendos e com a valorirização do valor de mercado das empresas. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio
 - Análise de alguns setores e empresas interessantes como uma análise detalhada dos destinos de empresas do setor aéreo e uma análise do desempenho da WEG. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/gr%C3%A1ficos
 - Criptomoedas em Foco: Bitcoin, Ethereum, Dogecoin… dou uma nadada de leve nas ondas voláteis das criptos e procuro algum padrão nesse negócio volátil. 🌐🔍📈
 - Resultados 📊
