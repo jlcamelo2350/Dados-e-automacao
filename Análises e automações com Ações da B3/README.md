@@ -6,7 +6,7 @@ Neste repositório, mergulhamos fundo nos dados financeiros das empresas listada
 Os scripts montados coletam, processam e analisam os preços das ações das empresas, do Balanço Patrimonial e da DRE. Utilizei a biblioteca yfinance para obter as informações detalhadas.💪
 
 ## 📊 Análises Financeiras Detalhadas
-Investigo variações nos preços das ações ao longo do tempo, correlações intrigantes e a situação financeira de algumas empresas. A ideia é sempre gerar insights relevantes a partir disso. 💡
+Investigo variações nos preços das ações ao longo do tempo, o desempenho em termos de Receitas, Custos e Lucros; investigo correlações intrigantes e a situação financeira de algumas empresas. A ideia é sempre gerar insights relevantes a partir disso. 💡
 
 ## 🌟 Projetos Específicos
 - Obtenção de Dados Financeiros: Coleta de informações sobre empresas da B3.
