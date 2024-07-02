@@ -1,4 +1,4 @@
-🚀 Análise Financeira de Empresas Brasileiras na B3
+# 🚀 Análise Financeira de Empresas Brasileiras na B3
 Neste repositório, mergulhamos fundo nos dados financeiros das empresas listadas na B3 (Bolsa de Valores do Brasil). Prepare-se para uma jornada pelo mundo das finanças! 💰📊
 
 ## Conteúdo 📈
