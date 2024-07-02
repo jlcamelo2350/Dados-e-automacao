@@ -1,4 +1,4 @@
-# 🌐 Modelo de Regressão Múltipla para Renda per Capita (PPC) 🌍
+# 🌐 Impactos da Inovação e da Liberdade Econômica na Renda Per Capita: Uma Análise Regressiva 🌍
 
 ## 📝 Resumo
 
