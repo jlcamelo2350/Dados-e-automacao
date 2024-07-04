@@ -13,7 +13,7 @@ Investigo variações nos preços das ações ao longo do tempo, o desempenho em
   
 - Análise de Empresas do Varejo Brasileiro. Analiso as empresas do setor a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa (governo)!🤫😉
 
-- Exploração do Setor Bancário e de Petróleo: Quem está nadando em dinheiro e quem está afundando? Vamos descobrir! Mais um spoiler: Todos aí estão nadando no dinheiro 😅
+- Setor Bancário e de Petróleo: Quem está nadando em dinheiro e quem está afundando? Vamos descobrir! Mais um spoiler: Todos aí estão nadando no dinheiro 😅
   
 - Simulação básica de portfólios com diferentes graus de riscos. A análise aqui simulou a compra de algumas ações de várias empresas e os retornos obtidos com dividendos e com a valorirização do valor de mercado das empresas. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio
 
