@@ -11,7 +11,7 @@ Investigo variações nos preços das ações ao longo do tempo, o desempenho em
 ## 🌟 Projetos Específicos
 - Obtenção de Dados Financeiros: Coleta de informações sobre empresas da B3.
   
-- Projeto: Análise de Empresas do Varejo Brasileiro: Analiso as empresas a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa (governo)!🤫😉
+- Análise de Empresas do Varejo Brasileiro. Analiso as empresas do setor a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa (governo)!🤫😉
 
 - Exploração do Setor Bancário e de Petróleo: Quem está nadando em dinheiro e quem está afundando? Vamos descobrir! Mais um spoiler: Todos aí estão nadando no dinheiro 😅
   
