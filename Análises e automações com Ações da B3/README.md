@@ -22,7 +22,7 @@ Investigo variações nos preços das ações ao longo do tempo, o desempenho em
    - Aviação-dados: Analiso 3 empresas do setor de aviação (Boeing, Airbus e Embraer) com base nos dados das ações e no desempenho financeiro das empresas. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/gr%C3%A1ficos/Avia%C3%A7%C3%A3o-dados
    - WEG dados: aqui eu utilizo das informações financeiras da empresa para apresentar seu desempenho. Além disso, monto um Modelo Preditivo básico, baseado em um regressão múltipla, com base nos dados históricos de preços das ações ao longo do tempo, volatilidade e desempenho gera da bolsa brasileira. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/gr%C3%A1ficos/WEG%20dados
   
-- Criptomoedas em Foco: Bitcoin, Ethereum, Dogecoin… dou uma nadada de leve nas ondas voláteis das criptos e procuro algum padrão nesse negócio volátil. 🌐🔍📈 
+- Criptomoedas em Foco: Bitcoin, Ethereum, Dogecoin… dou uma nadada de leve nas ondas voláteis das criptos e procuro algum padrão nesse negócio meio louco de criptomoedas. 🌐🔍📈 
 
 > *Nota do Analista: Lembre-se de que investir envolve riscos. Consulte um profissional financeiro antes de tomar decisões de investimento. E, claro, divirta-se explorando os dados!* 🎉📈
 
