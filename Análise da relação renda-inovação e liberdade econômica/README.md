@@ -86,5 +86,6 @@ Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato c
 
 ---
 
-> *Este repositório foi criado para inspirar e facilitar a análise econômica. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos.* 🌟
+> *Este repositório foi criado para inspirar e facilitar a análise econômica. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos.
+Paz 🖖* 🌟
 
