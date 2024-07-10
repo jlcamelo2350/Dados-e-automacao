@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este notebook apresenta uma análise aprofundada dos preços das ações da WEG S.A. (WEGE3) ao longo do tempo, com foco em tendências, volatilidade, modelagem preditiva e análise de probabilidade de queda no preço das ações.
+Este notebook apresenta uma análise aprofundada dos preços das ações da WEG S.A. (WEGE3) ao longo do tempo, com foco em tendências, volatilidade, modelagem preditiva e outras análises do desempenho da empresa.
 
 ## Dados
 
