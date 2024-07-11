@@ -1,4 +1,4 @@
-# 📊 Repositório de Análises Econômicas e Financeiras
+# 📊 Repositório de Análises (Economia, Finanças, Estatística e muitos códigos 😉😁)
 
 Bem-vindo ao meu repositório de análises! Aqui você encontrará uma coleção de projetos que exploram diversas áreas da economia e finanças, utilizando ferramentas poderosas como Python, R, Power BI e Excel. Cada análise é um esforço para entender melhor os complexos mecanismos que influenciam nosso mundo.
 
