@@ -29,7 +29,7 @@ Nesta análise, comparamos a expectativa de vida antes e depois da pandemia em d
 
 Este repositório faz uso de uma variedade de ferramentas para conduzir análises robustas e apresentar visualizações claras e impactantes:
 
-- **Python:** Para manipulação e análise de dados, com bibliotecas como pandas, numpy, matplotlib,
+- **Python:** Para manipulação e análise de dados, com bibliotecas como pandas, numpy, matplotlib e seaborn, sckit-learn, statsmodels, yfinance, entre outros
 - **R:** Para análises estatísticas e modelos econométricos.
 - **Power BI:** Para criar dashboards interativos e relatórios visuais.
 - **Excel:** Para manipulação de dados..
