@@ -34,8 +34,7 @@ Os dados utilizados na análise foram obtidos através das APIs do Yahoo Finance
 ### Análise de Probabilidade de Queda no Preço das Ações 📉📊
 
 - Uma regressão logística foi implementada para calcular a probabilidade de queda no preço das ações da WEG3, considerando as variáveis independentes média móvel de 50 dias e volatilidade.
-- O modelo de regressão logística permitiu identificar os fatores que aumentam ou diminuem a chance de queda no preço das ações, auxiliando na gestão de risco de investimentos.
-- É crucial lembrar que a probabilidade de queda no preço das ações é apenas uma estimativa, e outros fatores podem influenciar o desempenho das ações no futuro.
+- O modelo de regressão logística permitiu identificar que os fatores considerados pouco podem estimar se o preço vai cair. É necessário considerar outros fatores que podem explicar melhor isso que os dois considerados.
 
 ### Demonstração do Resultado do Exercício (DRE) 📊💰
 
