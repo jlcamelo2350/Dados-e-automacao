@@ -43,7 +43,7 @@ Analisar a volatilidade e a lucratividade de criptomoedas ao longo do tempo, des
 
 ### Volatilidade 🌊
 
-A análise mostrou que criptomoedas têm alta volatilidade, com variações significativas de preços em curtos períodos.
+Essa uma característica intrínseca desse tipo de ativo. A análise mostrou que criptomoedas têm alta volatilidade, portanto, tendem a terem variações significativas de preços em curtos períodos de tempo.
 
 ### Comparação entre Criptomoedas e Empresas 
 
