@@ -67,7 +67,7 @@ Todos os resultados obtidos são representados também por meios visuais de form
 - **Pandas**: Manipulação de dados.
 - **Statsmodels**: Modelagem ARIMA.
 - **Matplotlib e Seaborn**: Visualização de dados.
-- **Excel**: Foi utilizado ferramentas como Funções avançadas (PROCV, SUBSTITUIR e outras) para organizar os dados. Obrigado, Microsoft por isso. Excel te odeio e te amo 😅😂😂😂
+- **Excel**: Foi utilizado ferramentas como Funções avançadas (PROCV, SUBSTITUIR e outras) para organizar os dados.
 
 
 ## Contato 📧
