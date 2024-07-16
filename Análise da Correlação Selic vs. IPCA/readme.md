@@ -74,9 +74,6 @@ Todos os resultados obtidos são representados também por meios visuais de form
 
 Para dúvidas ou sugestões, entre em contato: jlcam3250@gmail.com
 
----
-
-Agradecemos por acompanhar este projeto! Esperamos que os insights aqui apresentados contribuam para uma melhor compreensão da dinâmica econômica brasileira.
 
 ---
 
