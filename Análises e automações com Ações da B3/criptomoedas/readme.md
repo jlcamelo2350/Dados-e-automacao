@@ -47,7 +47,7 @@ A análise mostrou que criptomoedas têm alta volatilidade, com variações sign
 
 ### Comparação entre Criptomoedas e Empresas 
 
-Empresas como a Petrobrás têm valor de mercado baseado em resultados tangíveis e mensuráveis. Mesmo que a demanda por suas ações caia, se a empresa continuar lucrativa, as pessoas terão motivos reais para investir novamente e o preços dos seus papéis começarão a subir novamente. No caso das criptomoedas, seu valor é mantido pela expectativa contínua de compra por parte de outros investidores. As pessoas compram Bitcoin, por exemplo, por terem o palpite que outros também comprarão e que consequentemente o preço dessa criptomoeda subirá por isso.
+Empresas como a Petrobrás têm valor de mercado baseado em resultados tangíveis e mensuráveis. Mesmo que a demanda por suas ações caia, se a empresa continuar lucrativa, as pessoas terão motivos reais para investir novamente e o preços dos seus papéis começarão a subir novamente. No caso das criptomoedas, seu valor é mantido pela expectativa contínua de compra por parte de outros investidores. As pessoas compram Bitcoin, por exemplo, por terem o palpite de que outros também comprarão e que consequentemente o preço dessa criptomoeda subirá por isso.
 
 ## Conclusão 🎉
 
