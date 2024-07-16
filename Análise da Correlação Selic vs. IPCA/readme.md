@@ -23,7 +23,7 @@ Os dados são extraídos de diferentes fontes, incluindo:
 
 ### 2. Análise de Dados 📈
 
-Os dados são filtrados em dois períodos:
+Os dados são filtrados em 3 períodos:
 
 - **2000 a 2024**
 - **2000 a 2010**
