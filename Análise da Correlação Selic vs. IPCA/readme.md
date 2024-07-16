@@ -1,4 +1,4 @@
-# Análise da Relação entre Taxa Selic e Inflação no Brasil 📊💹
+# Análise da Correlação entre Taxa Selic e Inflação no Brasil ao longo do tempo 📊💹
 
 Este projeto realiza uma análise detalhada da relação entre a taxa Selic e a inflação medida pelo IPCA no Brasil, abordando diferentes períodos e utilizando modelos estatísticos para entender a dinâmica entre essas variáveis.
 
