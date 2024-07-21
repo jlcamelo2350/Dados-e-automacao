@@ -49,17 +49,23 @@ Os dados da inflação e taxa de juros dos EUA foram analisados para comparar a 
 
 ## Resultados Gráficos 📊📈
 
-Gráficos foram gerados para visualizar:
-Todos os resultados obtidos são representados também por meios visuais de forma a melhorar a análise e facilitar o entendimento 
+Todos os resultados obtidos são representados também por meios visuais de forma a melhorar a análise e facilitar o entendimento da:
 
--  correlação entre Selic e IPCA ao longo dos meses.
--  evolução da inflação no Brasil e nos EUA.
+- evolução da inflação no Brasil.
   
+- correlação entre (taxa básica de juros) Selic e IPCA (taxa de inflação) ao longo dos tempo.
+
+-visualizar o quão bem os efeitos da política monetária é absorvida pela economia no caso do Brasil e dos EUA.
+
+- entender as diferenças de correlação entre variação da taxa básica de juros na inflação, no caso do Brasil e dos EUA, ao longo do tempo.
+
+
 ## Conclusões 🎓
 
 - A política monetária no Brasil apresenta desafios significativos na transmissão de seus efeitos à economia.
 - Deve-se investigar as causas dessa deficiência de transmissão da política monetária na economima brasileira e resolver o problema, de modo que o país consiga após isso usufruir dos efeitos da política monetária em sua plenitude. Isso implicará em melhora do funcionamento da economia nacional.
 - A economia estadunidense é um bom exemplo de pleno funcionamento e capacidade de transmissão da política monetária.
+- Investigar as causas dessa deficiência no Brasil e buscar melhorias na eficácia da política monetária promoverá uma economia mais estável e responsiva.
 
 ## Tecnologias Utilizadas 🛠️
 
@@ -77,6 +83,6 @@ Para dúvidas ou sugestões, entre em contato: jlcam3250@gmail.com
 
 ---
 
-Este projeto foi criado para inspirar e facilitar a análise macroeconômica. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos. **Paz** 🖖 🌟
+Este projeto foi criado para inspirar e facilitar a análise macroeconométrica. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos. **Paz** 🖖 🌟
 
 ---
