@@ -63,9 +63,10 @@ Todos os resultados obtidos são representados também por meios visuais de form
 ## Conclusões 🎓
 
 - A política monetária no Brasil apresenta desafios significativos na transmissão de seus efeitos à economia.
-- Deve-se investigar as causas dessa deficiência de transmissão da política monetária na economima brasileira e resolver o problema, de modo que o país consiga após isso usufruir dos efeitos da política monetária em sua plenitude. Isso implicará em melhora do funcionamento da economia nacional.
+- Deve-se investigar as causas dessa deficiência de transmissão da política monetária na economima brasileira e resolver o problema, de modo que o país consiga após isso usufruir dos efeitos dela em sua plenitude. Isso implicará em melhora do funcionamento da economia nacional.
 - A economia estadunidense é um bom exemplo de pleno funcionamento e capacidade de transmissão da política monetária.
 - Investigar as causas dessa deficiência no Brasil e buscar melhorias na eficácia da política monetária promoverá uma economia mais estável e responsiva.
+- Uma dica seria verificar os meios que a economia estadunidense se utiliza para absorver os efeitos da política monetária e aprender com isso.
 
 ## Tecnologias Utilizadas 🛠️
 
