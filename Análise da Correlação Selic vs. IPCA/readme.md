@@ -55,7 +55,7 @@ Todos os resultados obtidos são representados também por meios visuais de form
   
 - correlação entre (taxa básica de juros) Selic e IPCA (taxa de inflação) ao longo dos tempo.
 
--visualizar o quão bem os efeitos da política monetária é absorvida pela economia no caso do Brasil e dos EUA.
+- visualizar o quão bem os efeitos da política monetária é absorvida pela economia no caso do Brasil e dos EUA.
 
 - entender as diferenças de correlação entre variação da taxa básica de juros na inflação, no caso do Brasil e dos EUA, ao longo do tempo.
 
