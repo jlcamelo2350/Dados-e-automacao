@@ -84,6 +84,7 @@ Para dúvidas ou sugestões, entre em contato: jlcam3250@gmail.com
 
 ---
 
-Este projeto foi criado para inspirar e facilitar a análise macroeconométrica. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos. **Paz** 🖖 🌟
+Este projeto foi criado para inspirar e facilitar a análise macroeconométrica. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos. 
+**Paz** 🖖 🌟
 
 ---
