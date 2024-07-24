@@ -22,7 +22,7 @@ Investigo variações nos preços das ações ao longo do tempo, o desempenho em
 
 - Aviação-dados: Analiso 3 empresas do setor de aviação (Boeing, Airbus e Embraer) com base nos dados das ações e no desempenho financeiro das empresas.
   
-- WEG dados: aqui eu utilizo das informações financeiras da empresa para apresentar seu desempenho. Além disso, monto um Modelo Preditivo básico, baseado em um regressão múltipla, com base nos dados históricos de preços das ações ao longo do tempo, volatilidade e desempenho gera da bolsa brasileira. 
+- WEG dados: aqui eu utilizo das informações financeiras da empresa para apresentar seu desempenho. Além disso, monto um Modelo Preditivo básico, baseado em um regressão múltipla, com base nos dados históricos de preços das ações ao longo do tempo, volatilidade e desempenho geral da bolsa brasileira. 
   
 - Criptomoedas em Foco: Bitcoin, Ethereum, Dogecoin… dou uma nadada de leve nas ondas voláteis das criptos e procuro algum padrão nesse negócio meio louco de criptomoedas. 🌐🔍📈 
 
