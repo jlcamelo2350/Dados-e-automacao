@@ -26,5 +26,11 @@ Investigo variações nos preços das ações ao longo do tempo, o desempenho em
   
 - Criptomoedas em Foco: Bitcoin, Ethereum, Dogecoin… dou uma nadada de leve nas ondas voláteis das criptos e procuro algum padrão nesse negócio meio louco de criptomoedas. 🌐🔍📈 
 
+---
+> Este projeto foi criado para inspirar e facilitar a análise financeira. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos. 
+
+
 > *Nota do Analista: Lembre-se de que investir envolve riscos. Consulte um profissional financeiro antes de tomar decisões de investimento. E, claro, divirta-se explorando os dados!* 🎉📈
+
+**Paz** 🖖 🌟
 
