@@ -17,7 +17,7 @@ Este projeto realiza uma análise detalhada da relação entre a taxa Selic e a 
 
 Os dados são extraídos de diferentes fontes, incluindo:
 
-- **Taxa Selic**: Obtido diretamente via Python pela biblioteca `python-bcv`
+- **Taxa Selic**: Obtido diretamente via Python pela biblioteca `python-bcb`
 - **IPCA**: Base de dados do IBGE + limpeza e organização dos dados via excel e python.
 - **Inflação nos EUA**: Dados coletados de fontes públicas (st.louis FED) e organizados por mim no Excel
 
