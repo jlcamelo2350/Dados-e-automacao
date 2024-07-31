@@ -33,13 +33,13 @@ Analisar a volatilidade e a lucratividade de criptomoedas ao longo do tempo, des
 
 #### Bitcoin (BTC)
 - 2019-01-03: $3836,74
-- 2024-06-19: $64.960.30
-- **Lucro:** 1.593,11%
+- 2024-06-19: $56483.39
+- **Lucro:** 1472.17%
 
 #### Ethereum (ETH)
 - 2019-01-03: $149,14
-- 2024-06-19: $3.559,35
-- **Lucro:** 2.286,66%
+- 2024-06-19: $3373.635
+- **Lucro:** 2162.14%
 
 ### Volatilidade 🌊
 
@@ -55,4 +55,4 @@ Criptomoedas são ativos com alta volatilidade e potencial de grandes lucros. Di
 
 ---
 
-> *Este repositório foi criado para oferecer insights sobre o mercado de criptomoedas e auxiliar investidores a tomar decisões informadas. Lembre-se de que, apesar dos retornos potencialmente altos, investir em criptomoedas requer cautela e uma compreensão clara dos riscos envolvidos.* 🚀
+> *Este repositório foi criado para oferecer insights sobre o mercado de criptomoedas e auxiliar investidores a tomar decisões informadas. Lembre-se de que, apesar dos retornos potencialmente altos, investir em criptomoedas requer cautela e uma compreensão clara dos riscos envolvidos. Boa sorte!* 🚀
