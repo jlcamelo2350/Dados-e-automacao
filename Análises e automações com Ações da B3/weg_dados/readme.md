@@ -27,9 +27,8 @@ Os dados utilizados na análise foram obtidos através das APIs do Yahoo Finance
 
 ### Modelagem Preditiva 📊✨
 
-- Um modelo de regressão linear foi utilizado para prever os preços das ações da WEG3 com base em duas variáveis independentes: média móvel de 50 dias e volatilidade.
-- O modelo apresentou um bom desempenho, com um erro quadrático médio (RMSE) de 2.38 e um erro absoluto médio (MAE) de 1.98.
-- É importante ressaltar que a modelagem preditiva é apenas uma ferramenta de apoio à tomada de decisões, não devendo ser utilizada como base única para investimentos.
+- Um modelo de regressão linear muito básico foi utilizado para prever os preços das ações da WEG3 com base em duas variáveis independentes: média móvel de 50 dias e volatilidade.
+- O modelo apresentou um bom desempenho, com um erro quadrático médio (RMSE) de 2.38 e um erro absoluto médio (MAE) de 1.98. No entanto, perceba que se trata de uma modelagem muito simpificada.
 
 ### Análise de Probabilidade de Queda no Preço das Ações 📉📊
 
