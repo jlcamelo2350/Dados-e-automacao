@@ -41,7 +41,7 @@ Este projeto explora a relação entre os gastos com saúde (como percentual do 
 - 🌍 **Desenvolvimento de Sistemas:** Em países com sistemas de saúde mais desenvolvidos, a correlação entre gastos e qualidade diminui.
 
 ### 💬 Conclusão
-O aumento dos gastos com saúde pode melhorar a qualidade do sistema, mas com retornos decrescentes. Países com sistemas já desenvolvidos devem focar mais em eficiência do que em simplesmente em aumentar os gastos.
+O aumento dos gastos com saúde pode melhorar a qualidade do sistema, mas com retornos decrescentes. Países com sistemas já desenvolvidos devem focar mais em eficiência do que em simplesmente em aumentar os gastos. O resultado final, portanto, é uma obviedade embasada por dados -- o que é sempre melhor.
 
 ## 🌟 Visualizações Destacadas
 1. 🗺️ **Mapa Interativo** dos melhores sistemas de saúde do mundo, construído utilizando a biblioteca Plotly.
