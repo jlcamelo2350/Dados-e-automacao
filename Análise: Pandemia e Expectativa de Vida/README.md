@@ -28,7 +28,7 @@ A pandemia trouxe impactos significativos na expectativa de vida global, com efe
 ## **💼 Projeto 2: Correlação entre Gastos com Saúde e Qualidade do Sistema de Saúde**
 
 ### 🔍 Visão Geral
-Este projeto explora a relação entre os gastos com saúde (como percentual do PIB) e a qualidade dos sistemas de saúde em diferentes países. Um padrão observado foi a correlação positiva entre dois. No entanto, esse retorno fica cada vez menor conforme a qualidade do sistema vai aumentando. Dessa forma, percebeu-se que conforme o sistema vai ficando mais desenvolvimento deve-se focar no aumento da eficiência e efetividade do sistema em relação ao aumento de gastos, já que o aumeno de gastos traz retornos decrescentes à qualidade do sistema, ao passo que o aumento da eficiência (uso de tecnologia e etc) traz retornos crescentes.
+Este projeto explora a relação entre os gastos com saúde (como percentual do PIB) e a qualidade dos sistemas de saúde em diferentes países. Um padrão observado foi a correlação positiva entre dois. No entanto, esse retorno fica cada vez menor conforme a qualidade do sistema vai aumentando, ou seja, como dizemos na economia, os rendimentos marginais dos gastos com saúde são decrescentes relativos à qualidade do sistema. Dessa forma, percebeu-se que conforme o sistema vai ficando mais desenvolvimento deve-se focar no aumento da eficiência e efetividade do sistema em relação ao aumento de gastos, já que o aumeno de gastos traz retornos decrescentes à qualidade do sistema, ao passo que o aumento da eficiência (uso de tecnologia e etc) traz retornos crescentes.
 
 ### 📊 Metodologia
 - 🔗 **Análise de Correlação:** Investigação da relação entre os gastos e a qualidade do sistema de saúde.
