@@ -35,5 +35,5 @@
   <path d="M152,50 L168,50 M160,42 L160,58 M152,42 A8,8 0 0 1 168,42" stroke="white" stroke-width="3" fill="none"/>
   
   <!-- Title -->
-  <text x="200" y="280" font-family="Arial" font-size="16" fill="#333" text-anchor="middle">Análises Econômicas, Financeiras e Estatísticas</text>
+  <text x="200" y="280" font-family="Arial" font-size="16" fill="#333" text-anchor="middle">Análises de Dados com foco em dados Econômicos, Financeiros e Modelagem Estatísticas</text>
 </svg>
