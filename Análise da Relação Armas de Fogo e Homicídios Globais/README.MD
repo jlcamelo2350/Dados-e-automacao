@@ -52,7 +52,8 @@ Gráfico interativo mostrando a relação entre população, armas de fogo civis
   - Níveis moderados de posse de armas civis e menores taxas de violência.
 
 Gráfico de bolhas representando os países deste cluster:
-![Relação entre população, armas de fogo e mortes violentas (Cluster 1)](Análise da Relação Armas de Fogo e Homicídios Globais/gráficos/Relação entre população, armas de fogo e mortes violentas (Cluster 1).png)
+(![Relação entre população, armas de fogo e mortes violentas (Cluster 1)](Análise%20da%20Relação%20Armas%20de%20Fogo%20e%20Homicídios%20Globais/gráficos/Relação%20entre%20população,%20armas%20de%20fogo%20e%20mortes%20violentas%20(Cluster%201).png)
+
 
 
 ## 📊 Visualizações
