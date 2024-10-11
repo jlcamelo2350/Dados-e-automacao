@@ -2,6 +2,8 @@
 
 Este projeto explora a relação entre a posse de armas de fogo civis e a violência, especialmente as mortes violentas, em diferentes países ao redor do mundo. Utilizo uma abordagem baseada em aprendizado de máquina para agrupar países em clusters, a fim de identificar padrões e comportamentos semelhantes em relação à violência armada.
 
+<img src="https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Rela%C3%A7%C3%A3o%20Armas%20de%20Fogo%20e%20Homic%C3%ADdios%20Globais/gr%C3%A1ficos/gr%C3%A1fico%20-%20all%20clusters.png" alt="Relação entre população, armas de fogo e mortes violentas (All Clusters)" width="500" height="300">
+
 ## 📋 Descrição do Projeto
 
 O objetivo deste projeto é analisar como a posse de armas civis pode estar relacionada com os níveis de violência em diferentes nações. Para isso, utilizamos dados sobre **população**, **mortes violentas por 100k habitantes** e **armas de fogo civis por 100 habitantes**. O estudo busca encontrar padrões globais e identificar países que compartilham semelhanças neste aspecto crítico da segurança pública.
@@ -44,7 +46,7 @@ A análise resultou na criação de **6 clusters**, cada um agrupando países co
   - Altos níveis de violência armada e posse não elevada (apenas a Venezuela tem um pouco mais) de armas civis.
   - Estes países enfrentam crises de segurança pública profundas.
 
-Gráfico interativo mostrando a relação entre população, armas de fogo civis e mortes violentas:
+Gráfico de bolhas mostrando a relação entre população, armas de fogo civis e mortes violentas (Cluster 4):
 <img src="https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Rela%C3%A7%C3%A3o%20Armas%20de%20Fogo%20e%20Homic%C3%ADdios%20Globais/gr%C3%A1ficos/Rela%C3%A7%C3%A3o%20entre%20popula%C3%A7%C3%A3o%2C%20armas%20de%20fogo%20e%20mortes%20violentas%20(Cluster%204).png" alt="Relação entre população, armas de fogo e mortes violentas (Cluster 4)" width="500" height="300">
 
 
@@ -54,8 +56,8 @@ Gráfico interativo mostrando a relação entre população, armas de fogo civis
   - Países de diversos continentes.
   - Níveis moderados de posse de armas civis, porém, menores taxas de violência, em relação à cluster 4.
 
-Gráfico de bolhas representando os países deste cluster:
-
+Gráfico de bolhas representando os países deste cluster 1:
+<img src="https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Rela%C3%A7%C3%A3o%20Armas%20de%20Fogo%20e%20Homic%C3%ADdios%20Globais/gr%C3%A1ficos/Rela%C3%A7%C3%A3o%20entre%20popula%C3%A7%C3%A3o%2C%20armas%20de%20fogo%20e%20mortes%20violentas%20(Cluster%201).png" alt="Relação entre população, armas de fogo e mortes violentas (Cluster 1)" width="500" height="300">
 
 
 ## 📊 Visualizações
