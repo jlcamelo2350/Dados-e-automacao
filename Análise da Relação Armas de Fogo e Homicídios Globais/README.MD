@@ -68,19 +68,21 @@ A seguir, estão alguns dos gráficos mais relevantes gerados durante a análise
 - **Gráfico de Dispersão dos Clusters**: Mostrando a relação entre armas de fogo civis e mortes violentas por 100k habitantes em cada cluster.
 - **Gráfico de Bolhas**: Comparação entre os clusters 1 e 4, destacando as diferenças no nível de violência e posse de armas civis.
 
-## 📈 Resultados
-
-Os resultados indicam que países como o Brasil compartilham características de violência e posse de armas com outros países da América Latina, que enfrentam desafios críticos de segurança pública. Por outro lado, alguns países do cluster 1 demonstram maior controle tanto sobre a posse de armas quanto sobre as taxas de violência.
+📊 Principais Resultados: 
+- O algoritmo identificou o número ideal de clusters (agrupamentos de países com características semelhantes) como sendo 6.
+- Descobertas a partir desse breve estudo indicam que países com alta posse de armas nem sempre apresentam altas taxas de violência, destacando a complexidade do tema. 
+- Também notamos padrões relacionados à geografia e às problemáticas jurídico-institucionais e socioeconômicos regionais. Nesse sentido, a América Latina apresenta um cenário único, com desafios estruturais que exacerbam a violência.
+- Isso acarreta um padrão na região seguido sobretudo por países em que a questão do tráfico de drogas e do elevado domínio territorial por parte de criminosos aparece de maneira mais forte.
+- Países como Brasil, Colômbia e El Salvador foram agrupados na cluster 4 pela máquina. Nesse grupo, o padrão que encontramos foram países latinos com população indo de médio a grande e níveis alarmantes de violência. 
+- Países como a Áustria e a Finlândia, por sua vez, foram agrupados pelo algoritmo na cluster 0, em que tem-se países com baixíssima violência e população relativamente pequena. 
 
 ## 🚀 Próximos Passos
 
 - Explorar as características institucionais e jurídicas de cada cluster.
-- Estudar o impacto econômico e social da posse de armas e da violência.
-- Expandir o modelo para incluir novas variáveis, como políticas de controle de armas.
+- Expandir o modelo para incluir novas variáveis relacionadas sobretudo ao controle da criminalinalidade.
 
-## 🎯 Conclusão
-
-Este estudo forneceu insights valiosos sobre a relação entre a posse de armas de fogo e a violência globalmente. Ele destaca a importância de políticas públicas robustas para combater o crescimento da violência armada e promover a segurança pública.
 
 ---
 
+> *Este trabalho foi criado para inspirar os leitores para o poder dos dados para a tomada de decisões. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos.
+Paz 🖖* 🌟
