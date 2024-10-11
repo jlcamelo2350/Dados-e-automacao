@@ -84,5 +84,5 @@ A seguir, estão alguns dos gráficos mais relevantes gerados durante a análise
 
 ---
 
-> *Este trabalho foi criado para inspirar os leitores para o poder dos dados para a tomada de decisões. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos.
+> *Este trabalho foi criado para inspirar os leitores para o poder dos dados para a geração de ideias e para tomada de decisões. Espero que você encontre valor neste trabalho e utilize-o para aprimorar suas próprias pesquisas e projetos.
 Paz 🖖* 🌟
