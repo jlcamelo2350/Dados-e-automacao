@@ -35,24 +35,26 @@ A análise foi conduzida em várias etapas:
 
 ### 🔢 Detalhamento dos Clusters
 
-A análise resultou na criação de **5 clusters**, cada um agrupando países com características similares em termos de posse de armas e violência. Abaixo, os principais insights de cada cluster:
+A análise resultou na criação de **6 clusters**, cada um agrupando países com características similares em termos de posse de armas e violência. Abaixo, os principais insights de cada cluster:
 
 #### Cluster 4: Alta Violência e Alta Posse de Armas
 - **Países**: Brasil, Colômbia, El Salvador, Guatemala, Honduras, Venezuela.
 - **Características**:
-  - Altos níveis de violência armada e posse significativa de armas civis.
-  - Muitos destes países enfrentam crises de segurança pública profundas.
+  - Todos são países latinos
+  - Altos níveis de violência armada e posse não elevada (apenas a Venezuela tem um pouco mais) de armas civis.
+  - Estes países enfrentam crises de segurança pública profundas.
 
 Gráfico interativo mostrando a relação entre população, armas de fogo civis e mortes violentas:
-![Gráfico Interativo - Cluster 4](link_do_grafico)
+![Gráfico Interativo - Cluster 4](Análise da Relação Armas de Fogo e Homicídios Globais/gráficos/Relação entre população, armas de fogo e mortes violentas (Cluster 4).png)
 
 #### Cluster 1: População Moderada e Baixa Violência
 - **Países**: Exemplo de países.
 - **Características**:
-  - Níveis moderados de posse de armas civis e menores taxas de violência.
+  - Países de diversos continentes.
+  - Níveis moderados de posse de armas civis, porém, menores taxas de violência, em relação à cluster 4.
 
 Gráfico de bolhas representando os países deste cluster:
-(![Relação entre população, armas de fogo e mortes violentas (Cluster 1)](Análise%20da%20Relação%20Armas%20de%20Fogo%20e%20Homicídios%20Globais/gráficos/Relação%20entre%20população,%20armas%20de%20fogo%20e%20mortes%20violentas%20(Cluster%201).png)
+(![Relação entre população, armas de fogo e mortes violentas (Cluster 1)](Análise da Relação Armas de Fogo e Homicídios Globais/gráficos/Relação entre população, armas de fogo e mortes violentas (Cluster 1).png)
 
 
 
@@ -79,4 +81,3 @@ Este estudo forneceu insights valiosos sobre a relação entre a posse de armas 
 
 ---
 
-Assim que você terminar de ajustar os gráficos e links, pode adicionar os URLs para as imagens interativas e gerar um README.md final com esses conteúdos.
