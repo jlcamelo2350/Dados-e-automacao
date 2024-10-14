@@ -2,7 +2,7 @@
 
 Este projeto explora a relação entre a posse de armas de fogo civis e a violência, especialmente as mortes violentas, em diferentes países ao redor do mundo. Utilizo uma abordagem baseada em aprendizado de máquina para agrupar países em clusters, a fim de identificar padrões e comportamentos semelhantes em relação à violência armada.
 
-<img src="https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Rela%C3%A7%C3%A3o%20Armas%20de%20Fogo%20e%20Homic%C3%ADdios%20Globais/gr%C3%A1ficos/gr%C3%A1fico%20-%20all%20clusters.png" alt="Relação entre população, armas de fogo e mortes violentas (All Clusters)" width="800" height="500">
+<img src="https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Rela%C3%A7%C3%A3o%20Armas%20de%20Fogo%20e%20Homic%C3%ADdios%20Globais/gr%C3%A1ficos/gr%C3%A1fico%20-%20all%20clusters.png" alt="Relação entre população, armas de fogo e mortes violentas (All Clusters)" width="600" height="500">
 
 ## 📋 Descrição do Projeto
 
