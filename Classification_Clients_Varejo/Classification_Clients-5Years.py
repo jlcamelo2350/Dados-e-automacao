@@ -1,10 +1,35 @@
-# ============================================
-# Classificação Histórica de Clientes (versão anonimizada)
-# ============================================
-# Script de exemplo para classificação de clientes baseada em métricas
-# de vendas em SQL Server. Os nomes de tabelas e colunas foram
-# adaptados para placeholders genéricos.
-# ============================================
+"""
+=========================================================
+ Customer Classification Pipeline (versão anonimizada)
+=========================================================
+
+Este script conecta em um banco de dados SQL Server, unifica dados
+de vendas de diferentes fontes (loja física e canal alternativo),
+calcula métricas por cliente (últimos 12 meses e 13–24 meses anteriores)
+e classifica os clientes em diferentes grupos, como:
+
+- 01 - FANS
+- 02 - PREMIUM
+- 03 - SUPER VIP
+- 04 - VIP
+- 05 - POTENTIAL
+- 06 - GOOD
+- 07 - OK
+- 10 - NEW BUYERS
+- 11 - ONE TIME BUYERS
+- 20 - INACTIVE HP
+- 21 - RECENTLY INACTIVE
+- 22 - LOST
+- 23 - NEVER BOUGHT
+
+O resultado é exportado em formato CSV com histórico de classificações
+para múltiplos anos.
+
+⚠️ Todos os nomes de tabelas e colunas foram substituídos por genéricos,
+mantendo apenas a lógica de negócio. Use os nomes reais no ambiente de
+produção conforme necessário.
+"""
+
 
 import os
 import logging
@@ -334,3 +359,4 @@ if __name__ == '__main__':
         print(f"✅ Exportado em: {path}")
     else:
         print("Nenhum dado para exportar.")
+
